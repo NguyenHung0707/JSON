@@ -1,0 +1,18 @@
+[
+  {
+    "Book": {
+      "Price": "2000$",
+      "author": "Harper Lee",
+      "id": "01",
+      "Name": "Giết con chim nhại"
+    }
+  },
+  {
+    "Book": {
+      "price": "1000$",
+      "author": "Franz Kafka",
+      "id": "02",
+      "Name": "Vụ án"
+    }
+  }
+]
